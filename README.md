@@ -1,0 +1,1 @@
+# detector_movimiento_opencv
