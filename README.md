@@ -13,6 +13,6 @@ Implementar un sistema simple de visión por computadora capaz de identificar zo
 - Umbralización binaria y dilatación.
 - Detección de contornos y delimitación con rectángulos.
 
-## 🛠️ Herramientas
+# Herramientas
 - Python 3
 - OpenCV
