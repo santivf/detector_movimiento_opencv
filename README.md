@@ -8,7 +8,7 @@ Implementar un sistema simple de visión por computadora capaz de identificar zo
 # Conceptos aplicados
 - Captura de video en tiempo real.
 - Conversión a escala de grises.
-- Suavizado mediante **Gaussian Blur**.
+- Suavizado mediante Gaussian Blur.
 - Detección de diferencias entre frames.
 - Umbralización binaria y dilatación.
 - Detección de contornos y delimitación con rectángulos.
