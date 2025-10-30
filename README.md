@@ -1,18 +1,18 @@
-# Detector de Movimiento en Tiempo Real con OpenCV
+# Real-Time Motion Detector with OpenCV
 
-Este proyecto utiliza la cámara del dispositivo y la librería **OpenCV** para detectar movimiento en tiempo real mediante la comparación de fotogramas consecutivos.
+This project uses the device's camera and the **OpenCV** library to detect motion in real time by comparing consecutive frames.
 
-# Objetivo
-Implementar un sistema simple de visión por computadora capaz de identificar zonas con movimiento y marcarlas visualmente.
+# Objective
+Implement a simple computer vision system capable of identifying areas with movement and visually highlighting them.
 
-# Conceptos aplicados
-- Captura de video en tiempo real.
-- Conversión a escala de grises.
-- Suavizado mediante Gaussian Blur.
-- Detección de diferencias entre frames.
-- Umbralización binaria y dilatación.
-- Detección de contornos y delimitación con rectángulos.
+# Applied Concepts
+- Real-time video capture
+- Grayscale conversion
+- Smoothing using Gaussian Blur
+- Frame difference detection
+- Binary thresholding and dilation
+- Contour detection and bounding box drawing
 
-# Herramientas
+# Tools
 - Python 3
 - OpenCV
